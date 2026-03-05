@@ -17,3 +17,8 @@ background: rgb(87, 87, 177);
 .flex {
     display: flex;
 }
+
+.red {
+    padding-right: 320;
+background-color: red;
+}
