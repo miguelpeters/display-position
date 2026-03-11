@@ -9,7 +9,7 @@ background: rgb(87, 87, 177);
 }
 
 .yo {
-    padding: 100px;
+    padding: 40px;
     margin: 10px;
     background-color: yellow;
 }
@@ -19,11 +19,20 @@ background: rgb(87, 87, 177);
 }
 
 .red {
-    padding-right: 320;
+    padding: -60px;
 background-color: red;
 }
 
 .green {
-    padding-bottom: 320px;
+    padding-bottom: 200px;
     background-color: greenyellow;
+}
+
+.green2 {
+    padding-bottom: 330px;
+    background-color: yellow;
+}
+
+.blue{
+    padding-left: 100px;
 }
